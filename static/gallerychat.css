@@ -37,8 +37,7 @@ img.right { float:right;margin:0 0 5px 5px;}
 body { font:normal 18px Arial, Helvetica; color:#444; background-color: #f2f2f2 ;margin: 0; padding: 0; outline: none;line-height:1.6;}
 .main { background-color: #eee; padding: 3px 10px; }
 
-
-#panel,.panel,#wrapper,.wrapper {margin:5px auto;padding:0 10px;max-width:950px;}
+.panel {margin:5px auto;padding:0 10px;}
 .paneloutbreak { display: flex; align-items: center; justify-content: center; }
 
 /* content */
@@ -104,6 +103,10 @@ h5+h6 {margin-top: 2px;}
     overflow: hidden;
     float: left;
     padding: 5px;
+}
+.bud h2 {
+    display: inline;
+    border-bottom:1px solid grey;
 }
 .bud p {
     padding:0;
