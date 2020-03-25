@@ -13,6 +13,9 @@ Martin Fowler on [effective video calls](https://martinfowler.com/articles/effec
 So this tool is to _drop video_ but still _use text gestures_ in a chat _gallery mode_ to see __all participants equally__.
 
 
+[First poor mockup](https://klml.github.io/gallerychat/index.html)
+
+
 ## Features
 
 * send images
