@@ -34,7 +34,7 @@ img.right { float:right;margin:0 0 5px 5px;}
 /* often used and cutomized css values needs to be changed in 98% */
 
 /* proportion */
-body { font:normal 18px Arial, Helvetica; color:#444; background-color: #ccc ;margin: 0; padding: 0; outline: none;line-height:1.6;}
+body { font:normal 18px Arial, Helvetica; color:#444; background-color: #f2f2f2 ;margin: 0; padding: 0; outline: none;line-height:1.6;}
 .main { background-color: #eee; padding: 3px 10px; }
 
 
@@ -95,7 +95,7 @@ h5+h6 {margin-top: 2px;}
 }
 
 .bud {
-    border: 1px solid #000;
+    border: 1px solid grey;
     max-width: 500px;
     max-height: 500px;
     width: 300px;
@@ -115,7 +115,17 @@ h5+h6 {margin-top: 2px;}
     font-size: 0.6em;
     float: right;
 }
-textarea#content {
+#control {
+    
     width: 80%;
+}
+textarea#content {
+    width: 100%;
     min-width: 350px;
+}
+.emoji {
+    font-size: 1.2em;
+}
+button {
+    float: right;
 }
