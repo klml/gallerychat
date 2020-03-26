@@ -140,3 +140,7 @@ textarea#content {
 button {
     float: right;
 }
+#you {
+    color: gold;
+    float: right;
+}
