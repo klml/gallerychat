@@ -8,7 +8,7 @@ Martin Fowler on [effective video calls](https://martinfowler.com/articles/effec
 * __Use gallery mode__ _where every participant is visible in their own window._
 * __Use the chat__ is _a useful second channel_.
 * __Use gestures__ _like to nod vigorously or do thumbs-up_ or _raise my hand_.
-* But __drop video if bandwidth is an issue__
+* But __drop video__ if bandwidth is an issue.
 
 A gallery chat is to _drop video_ but still _use text gestures_ in a chat _gallery mode_ to see __all participants equally__.
 
