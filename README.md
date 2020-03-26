@@ -19,4 +19,5 @@ A gallery chat is to _drop video_ but still _use text gestures_ in a chat _galle
 ## Features
 
 * send images
-* switch fromtext to camera 
+* switch from text to camera 
+* the order - who said what when. Maybe express it with a color gradient, so that it is at least clear where there is something new at a glance.
