@@ -2,15 +2,12 @@
 
 __gallerychat__ is a chat mockup: every chatmember has its own tile.
 
-Martin Fowler on [effective video calls](https://martinfowler.com/articles/effective-video-calls.html):
+I am not totally convinced of videocalls. In my opinion it is enough to use the audio channel as the main means of communication and a chat channel as a second option.
 
-* __Turn on the video__ 
-* __Use gallery mode__ _where every participant is visible in their own window._
-* __Use the chat__ is _a useful second channel_.
-* __Use gestures__ _like to nod vigorously or do thumbs-up_ or _raise my hand_.
-* But __drop video__ if bandwidth is an issue.
+Of course there are many benefits from using videos like [nod vigorously or do thumbs-up, gesture like raise hands](https://martinfowler.com/articles/effective-video-calls.html)
 
-A gallery chat is to _drop video_ but still _use text gestures_ in a chat _gallery mode_ to see __all participants equally__.
+
+but I think those can also be found in a chat. Maybe to a certain degree not as much in the good old serial chat. Therefore I`d like to establish a chat within [gallery view](https://martinfowler.com/articles/effective-video-calls.html), like they already exist in video calls, so all participants are able to __see everyone at the same time__.
 
 
 [First poor mockup](https://klml.github.io/gallerychat/index.html)
