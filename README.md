@@ -13,8 +13,14 @@ but I think those can also be found in a chat. Maybe to a certain degree not as 
 [First poor mockup](https://klml.github.io/gallerychat/index.html)
 
 
-## Features
+## additional Features
 
 * send images
 * switch from text to camera 
 * the order - who said what when. Maybe express it with a color gradient, so that it is at least clear where there is something new at a glance.
+
+
+## Feature requests
+
+* [mattermost](https://mattermost.uservoice.com/forums/306457-general/suggestions/40036552-gallery-view)
+* [telegram](https://github.com/zhukov/webogram/issues/1959)
